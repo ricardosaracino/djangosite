@@ -1,4 +1,4 @@
-# djangosite
+# Django Site
 
 Based from the Writing your first Django app
 
